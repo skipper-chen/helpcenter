@@ -2,8 +2,8 @@
 
 * [helpcenter](README.md)
 * [home](home.md)
-* [常见问题](chang-jian-wen-ti/README.md)
-  * [Page](chang-jian-wen-ti/page.md)
+* [常见问题](chang-jian-wen-ti.md)
+  * [如何安装](chang-jian-wen-ti/ru-he-an-zhuang.md)
 * [第三方服务\&Docker](di-san-fang-fu-wu-docker.md)
 * [访问Windows桌面](fang-wen-windows-zhuo-mian.md)
 * [飞牛NAS 使用说明](fei-niu-nas-shi-yong-shuo-ming.md)
