@@ -1,7 +1,7 @@
 # Table of contents
 
 * [helpcenter](README.md)
-* [Page 1](page-1.md)
+* [home](home.md)
 * [Untitled](untitled.md)
 * [Untitled](untitled-1.md)
 * [常见问题](chang-jian-wen-ti.md)
